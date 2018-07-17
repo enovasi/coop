@@ -1,0 +1,4 @@
+[submodule "enovasi/newmod"]
+	path = enovasi/newmod
+	url = git@github.com:enovasi/newmod.git
+	branch = master
